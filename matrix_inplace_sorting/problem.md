@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-Matrix Sorting without using extra space for another matrix. Get matrix size m x n and
-elements as input.
-Input format:
-m
-n
-Input matrix
-=======
 # Problem
 
 ### Statement
@@ -40,4 +32,3 @@ Given a matrix of size m x n, sort it without using extra space for another matr
     |      34 9 22 5     |     8 9 10 14      |
     |      35 8 14 3     |     21 22 24 30    |
     |      36 30 24 4    |     33 34 35 36    |
->>>>>>> d0f8d99 (Matrix inplace sorting)
