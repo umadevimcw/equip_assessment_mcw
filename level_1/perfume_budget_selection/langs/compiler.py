@@ -4,9 +4,6 @@ class Node:
         self.left = None
         self.right = None
 
-def find_closest_perfumes(root, x):
-    # Code here
-    pass
 
 def insert(root, value):
     if root is None:
