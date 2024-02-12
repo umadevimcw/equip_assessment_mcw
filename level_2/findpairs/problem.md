@@ -25,4 +25,4 @@ pair of elements in the array whose difference is R.
     |   10  |                  |
     |   5   |                  |
     | 23 55 33 72 43 | (23, 33) |
-                    | (33, 43) |
+    |                | (33, 43) |
