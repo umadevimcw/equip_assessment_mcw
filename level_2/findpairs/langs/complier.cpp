@@ -2,7 +2,7 @@ int main()
 {
     int N, R;
 
-  cin >> R;
+    cin >> R;
     cin >> N;
     int arr[N];
     
