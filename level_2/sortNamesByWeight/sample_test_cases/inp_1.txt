@@ -1,0 +1,3 @@
+3
+Horse  Bear Lion
+180 165 170
