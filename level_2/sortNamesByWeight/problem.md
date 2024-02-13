@@ -9,13 +9,11 @@ Array length of names[] and weights[] is n.
 1.  |       Input	     |  Expected Output   |
     |--------------------|--------------------|
     |          3         |                    |
-    |          3         |                    |
     |  Horse Bear Lion   |   Horse Lion Bear  |
     |  180 165 170       |                    |
 
 2.  |       Input	     |  Expected Output   |
     |--------------------|--------------------|
-    |          3         |                    |
     |          3         |                    |
     |  Deer Cow Dog      |   Cow Deer Dog     |
     |  155 185 150       |                    |
