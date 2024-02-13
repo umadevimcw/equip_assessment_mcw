@@ -1,7 +1,7 @@
 # Problem
 
 ### Statement
-Given an array of integers and an array of blocked integers, find the most frequent integer that is not blocked. Return the result.
+Given an array of integers and an array of blocked integers, At least one integer that is not blocked, and that the answer is unique. Return the most frequent integer that is not blocked. Take size of the array n, elements of array and blocked elements.
 
 ### Test Cases
 1.  |       Input	     |  Expected Output   |
