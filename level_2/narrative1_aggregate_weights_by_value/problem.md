@@ -15,40 +15,39 @@ Note: `ret` should be returned in ascending order by value.
 ### Test Cases
 1.  #### Input:
     - 3
-    - 1  1
-      4  5
-      3  8
+    - 1 1 <br> 
+      4 5 <br>
+      3 8 
     - 2
-    - 3  1
-      1  5
+    - 3 1 <br>
+      1 5
     #### Output:
-    - 1  6
-      3  9
-      4  5
+    - 1 6 <br>
+      3 9 <br>
+      4 5
 2.  #### Input:   
     - 3
-    - 1  1
-      3  2
-      2  3
+    - 1 1 <br>
+      3 2 <br>
+      2 3 <br>
     - 3
-    - 2  1
-      3  2
-      1  3
+    - 2 1 <br>
+      3 2 <br>
+      1 3
     #### Output:
-    - 1  4
-      2  4
-      2  4
+    - 1 4 <br>
+      2 4 <br>
+      2 4
 
 3.  #### Input:
     - 2
-    - 1  3
-      2  2
+    - 1 3 <br>
+      2 2 <br>
     - 3
-    - 7  1
-      2  2
-      1  4
+    - 7 1 <br>
+      2 2 <br>
+      1 4 
     #### Output:
-    - 1  7
-      2  4
-      7  1 
-
+    - 1 7 <br>
+      2 4 <br>
+      7 1 
