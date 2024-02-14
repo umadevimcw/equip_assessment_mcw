@@ -13,7 +13,6 @@ Note: `ret` should be returned in ascending order by value.
 - N(Size of set2)
 - set2 
 ### Test Cases
-<pre>
 1.  #### Input:
     - 3
     - 1  1
@@ -52,5 +51,4 @@ Note: `ret` should be returned in ascending order by value.
     - 1  7
       2  4
       7  1 
-</pre>
 
