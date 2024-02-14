@@ -1,14 +1,14 @@
 public static void main(String[] args) 
-    {
-        Main mainInstance = new Main();
-        Scanner scanner = new Scanner(System.in);
-        int n = scanner.nextInt();
-        int[] arr = new int[n];
-        for (int i = 0; i < n; i++)
-            arr[i] = scanner.nextInt();
+{
+    Main mainInstance = new Main();
+    Scanner scanner = new Scanner(System.in);
+    int n = scanner.nextInt();
+    int[] arr = new int[n];
+    for (int i = 0; i < n; i++)
+        arr[i] = scanner.nextInt();
 
-        mainInstance.find_unique_array(arr, n);
-        String str = mainInstance.result;  
-        System.out.println(str);
-        scanner.close();
-    }
+    mainInstance.find_unique_array(arr, n);
+    String str = mainInstance.result;  
+    System.out.println(str);
+    scanner.close();
+}
