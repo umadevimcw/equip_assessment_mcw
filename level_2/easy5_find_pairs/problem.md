@@ -32,7 +32,5 @@ pair of elements in the array whose difference is R.
     - 5
     - 23 55 33 72 43
     #### Output:
-    <pre>
-    - (23, 33)
+    - (23, 33) <br>
       (33, 43)
-    </pre>
