@@ -7,7 +7,7 @@ public static void main(String[] args)
         for (int i = 0; i < n; i++)
             arr[i] = scanner.nextInt();
 
-        mainInstance.findUniqueArray(arr, n);
+        mainInstance.find_unique_array(arr, n);
         String str = mainInstance.result;  
         System.out.println(str);
         scanner.close();

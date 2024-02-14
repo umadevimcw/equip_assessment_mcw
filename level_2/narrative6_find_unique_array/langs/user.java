@@ -4,7 +4,7 @@ public class Main
 {
     private String result; 
 
-    public void findUniqueArray(int[] inputArraySets, int arraySize)
+    public void find_unique_array(int[] inputArraySets, int arraySize)
     {
         //Write your code here
     }
