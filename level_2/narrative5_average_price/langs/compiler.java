@@ -8,5 +8,5 @@ public static void main(String[] args)
     for (int i = 0; i < n; i++)
         arr[i] = scanner.nextInt();
         
-    System.out.println(averagePrice(n, arr));
+    System.out.println(average_price(n, arr));
 }
