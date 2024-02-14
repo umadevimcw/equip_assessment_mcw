@@ -16,7 +16,7 @@ public static void main(String[] args)
     }
 
     int[] outputSubtreeCount = new int[1]; // Array to store the result
-    findNumSubtreeStructure(N, R, tree, outputSubtreeCount);
+    find_num_subtree_structure(N, R, tree, outputSubtreeCount);
     System.out.println(outputSubtreeCount[0]);
 }
 

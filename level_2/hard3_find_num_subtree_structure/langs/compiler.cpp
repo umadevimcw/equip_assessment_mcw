@@ -16,7 +16,7 @@ int main()
         tree[node2].push_back(node1);
     }
     
-    find_num_Subtree_Structure(N, R, tree, &output_subtree_count);
+    find_num_subtree_structure(N, R, tree, &output_subtree_count);
     
     cout << output_subtree_count;
 

@@ -14,7 +14,7 @@ typedef struct Tree
     Node* neighbors;
 } Tree;
 
-void find_num_Subtree_Structure(int N, int R, Tree* input_tree, int* output_subtree_count) 
+void find_num_subtree_structure(int N, int R, Tree* input_tree, int* output_subtree_count) 
 {
     //Write your code here
 }
