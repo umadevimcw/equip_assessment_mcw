@@ -24,7 +24,7 @@ int main()
         transposed_output_matrix[i] = (int*)malloc(rows * sizeof(int));
     }
     
-    transposeMatrix(matrix, rows, cols, transposed_output_matrix);
+    transpose_matrix(matrix, rows, cols, transposed_output_matrix);
     
     for (int i = 0; i < cols; ++i) 
     {

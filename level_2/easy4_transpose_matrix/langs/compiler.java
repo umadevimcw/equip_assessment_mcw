@@ -13,7 +13,7 @@ public static void main(String[] args)
     }
     
     int[][] transposed_output_matrix = new int[cols][rows];
-    transposeMatrix(matrix, rows, cols, transposed_output_matrix);
+    transpose_matrix(matrix, rows, cols, transposed_output_matrix);
     
     for (int i = 0; i < cols; ++i) {
         for (int j = 0; j < rows; ++j) 
