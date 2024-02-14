@@ -14,7 +14,7 @@ typedef struct
     int output_numPairs;
 } input_Pairs;
 
-void findPairs(int arr[], int N, int R, input_Pairs* pairs)
+void find_pairs(int arr[], int N, int R, input_Pairs* pairs)
 {
     //Write your code here
 }

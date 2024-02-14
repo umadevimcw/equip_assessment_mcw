@@ -12,7 +12,7 @@ int main()
 
     input_Pairs pairs = {NULL,  0};
 
-    findPairs(arr, N, R, &pairs);
+    find_pairs(arr, N, R, &pairs);
 
     if (pairs.output_numPairs ==  0)
     {

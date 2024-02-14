@@ -10,7 +10,7 @@ int main()
         cin >> arr[i];
 
     vector<pair<int, int>> pairs;
-    findPairs(arr, N, R, pairs);
+    find_pairs(arr, N, R, pairs);
 
     if (pairs.empty()) 
     {

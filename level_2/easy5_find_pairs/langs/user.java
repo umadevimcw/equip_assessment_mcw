@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Main 
 {
 
-    public static void findPairs(int[] input_Arr, int N, int R, List<int[]> pairs)
+    public static void find_pairs(int[] input_Arr, int N, int R, List<int[]> pairs)
     {
         //Write your code here
     }

@@ -10,7 +10,7 @@ public static void main(String[] args)
         }
      
         List<int[]> pairs = new ArrayList<>();
-        findPairs(arr, N, R, pairs);
+        find_pairs(arr, N, R, pairs);
         if (pairs.isEmpty())
         {
             System.out.println("No such pair");
