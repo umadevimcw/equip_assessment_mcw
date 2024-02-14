@@ -14,8 +14,7 @@ Note: `ret` should be returned in ascending order by value.
 - set2 
 ### Test Cases
 <pre>
-1. 
-    #### Input:
+1.  #### Input:
     - 3
     - 1 1
       4 5
@@ -27,8 +26,7 @@ Note: `ret` should be returned in ascending order by value.
     - 1 6
       3 9
       4 5
-2.
-    #### Input:   
+2.  #### Input:   
     - 3
     - 1 1
       3 2
@@ -41,15 +39,15 @@ Note: `ret` should be returned in ascending order by value.
     - 1 4
       2 4
       2 4
-3.
-    #### Input:
+
+3.  #### Input:
     - 2
     - 1 3
       2 2
     - 3
     - 7 1
-    - 2 2
-    - 1 4
+      2 2
+      1 4
     #### Output:
     - 1 7
       2 4
