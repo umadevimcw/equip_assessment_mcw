@@ -17,7 +17,7 @@ int main()
     }
 
     int resultSize;
-    int** result = aggregateWeightsByValue(m, set1, n, set2, resultSize);
+    int** result = aggregate_weights_by_value(m, set1, n, set2, resultSize);
 
     for (int i = 0; i < resultSize; ++i)
         cout << result[i][0] << " " << result[i][1] << endl;
