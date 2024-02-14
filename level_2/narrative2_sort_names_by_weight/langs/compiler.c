@@ -13,7 +13,7 @@ int main() {
     for (int i = 0; i < n; i++)
         scanf("%d", &weights[i]);
 
-    char** sortedNames = sortNamesByWeight(n, names, weights);
+    char** sortedNames = sort_names_by_weight(n, names, weights);
 
     for (int i = 0; i < n; i++) 
     {

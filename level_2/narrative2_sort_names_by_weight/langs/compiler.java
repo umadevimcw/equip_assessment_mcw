@@ -12,7 +12,7 @@ public static void main(String[] args)
     for (int i = 0; i < n; i++)
         weights[i] = scanner.nextInt();
 
-    String[] sortedNames = sortNamesByWeight(n, names, weights);
+    String[] sortedNames = sort_names_by_weight(n, names, weights);
 
     for (int i = 0; i < n; i++)
         System.out.print(sortedNames[i] + " ");

@@ -15,7 +15,7 @@ public class Main
         }
     }
 
-    static String[] sortNamesByWeight(int N, String[] animal_names, int[] animal_weights) 
+    static String[] sort_names_by_weight(int N, String[] animal_names, int[] animal_weights) 
     {
         //Write your code here
     }

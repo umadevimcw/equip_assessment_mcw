@@ -12,7 +12,7 @@ int main()
     for (int i = 0; i < n; i++)
         cin >> weights[i];
 
-    string* sortedNames = sortNamesByWeight(n, names, weights);
+    string* sortedNames = sort_names_by_weight(n, names, weights);
 
     for (int i = 0; i < n; i++)
         cout << sortedNames[i] << " ";
