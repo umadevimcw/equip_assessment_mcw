@@ -18,7 +18,7 @@ public static void main(String[] args)
         set2[i][1] = scanner.nextInt();
     }
 
-    int[][] result = aggregateWeightsByValue(set1, set2);
+    int[][] result = aggregate_weights_by_value(set1, set2);
 
     for (int[] pair : result) 
         System.out.println(pair[0] + " " + pair[1]);
