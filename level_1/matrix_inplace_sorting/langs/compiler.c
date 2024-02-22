@@ -58,7 +58,7 @@ int main()
     {
         for (int j = 0; j < n; j++)
         {
-            printf(" %d", input[i][j]);
+            printf("%d ", input[i][j]);
         }
         printf("\n");
     }
