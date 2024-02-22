@@ -1,12 +1,15 @@
-public static void main(String[] args)
+class Main
 {
-    Scanner scanner = new Scanner(System.in);
+    public static void main(String[] args)
+    {
+        Scanner scanner = new Scanner(System.in);
 
-    int n = scanner.nextInt();
-    int[] arr = new int[n];
+        int n = scanner.nextInt();
+        int[] arr = new int[n];
 
-    for (int i = 0; i < n; i++)
-        arr[i] = scanner.nextInt();
-            
-    System.out.println(averagePrice(n, arr));
+        for (int i = 0; i < n; i++)
+            arr[i] = scanner.nextInt();
+        Test test = new Test();
+        System.out.println(test.averagePrice(n, arr));
+    }
 }
