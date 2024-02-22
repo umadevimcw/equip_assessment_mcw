@@ -8,19 +8,5 @@ Return the minimum possible sum of set1 and set2.
 ### Input format:
 - num
 
-### Test Cases
-1.  |   Input   |  Expected Output |
-    |------------|-------------------|
-    |   39722    |        266        |
-
-2.  |   Input   |  Expected Output |
-    |------------|-------------------|
-    |   29302    |         52        |
-
-3.  |   Input   |  Expected Output |
-    |------------|-------------------|
-    |   40009    |         13        |
-
-
 
 
