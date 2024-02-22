@@ -3,7 +3,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 
-public class Main 
+class Test 
 {
 
     public static void find_pairs(int[] input_Arr, int N, int R, List<int[]> pairs)

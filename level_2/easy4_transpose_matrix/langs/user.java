@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main 
+class Test 
 {
     public static void transpose_matrix(int[][] input_matrix, int rows, int cols, int[][] transposed_output_matrix) 
     {
