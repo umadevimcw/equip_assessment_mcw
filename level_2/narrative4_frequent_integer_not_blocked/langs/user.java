@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 class Test
 {
-    public static int averagePrice(int arraySize, int[] inputArray)
+    public static int frequent_integer_not_blocked(int arraySize, int[] inputArray)
     {
         //Write your code here
     }

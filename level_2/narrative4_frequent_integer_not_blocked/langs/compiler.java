@@ -10,6 +10,6 @@ class Main
         for (int i = 0; i < n; i++)
             arr[i] = scanner.nextInt();
         Test test = new Test();
-        System.out.println(test.averagePrice(n, arr));
+        System.out.println(test.frequent_integer_not_blocked(n, arr));
     }
 }
