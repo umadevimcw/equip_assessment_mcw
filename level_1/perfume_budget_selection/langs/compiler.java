@@ -42,7 +42,7 @@ public class compiler {
 
         int customerBudget = scanner.nextInt();
 
-        ArrayList<Integer> result = findClosestPerfumes(root, customerBudget);
+        ArrayList<Integer> result = user.findClosestPerfumes(root, customerBudget);
 
         for (int i : result) {
             System.out.print(i + " ");
