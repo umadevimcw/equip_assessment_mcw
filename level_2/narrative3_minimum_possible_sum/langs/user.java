@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.ArrayList;
 
-public class Main 
+class Test 
 {
     public static int minimum_possible_sum(int number) 
     {

@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main 
+class Test 
 {
     static class Pair 
     {
