@@ -1,6 +1,3 @@
-import java.util.ArrayList;
-import java.util.Scanner;
-
 class Node {
     int key;
     Node left;
@@ -13,7 +10,7 @@ class Node {
     }
 }
 
-public class compiler {
+class Main {
     public static Node insert(Node root, int value) {
         if (root == null) {
             return new Node(value);
@@ -41,8 +38,8 @@ public class compiler {
         }
 
         int customerBudget = scanner.nextInt();
-
-        ArrayList<Integer> result = user.findClosestPerfumes(root, customerBudget);
+        Test test = new Test();
+        ArrayList<Integer> result = test.findClosestPerfumes(root, customerBudget);
 
         for (int i : result) {
             System.out.print(i + " ");

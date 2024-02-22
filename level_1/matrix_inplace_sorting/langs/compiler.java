@@ -1,6 +1,5 @@
-import java.util.Scanner;
 
-public class compiler
+class Main
 {
     public static void main(String[] args)
     {
@@ -40,8 +39,8 @@ public class compiler
             System.out.println("You have entered an invalid input!");
             return;
         }
-
-        user.sortMatrix(input, m, n);
+        Test test = new Test();
+        test.sortMatrix(input, m, n);
         // Print the sorted matrix
         for (int i = 0; i < m; i++)
         {
