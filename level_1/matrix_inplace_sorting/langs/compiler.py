@@ -30,7 +30,7 @@ def main():
     # Print the sorted matrix
     for i in range(m):
         for j in range(n):
-            print(' ', input_arr[i][j], sep='', end='')
+            print(input_arr[i][j], ' ', sep='', end='')
         print()
 
 if __name__ == '__main__':
