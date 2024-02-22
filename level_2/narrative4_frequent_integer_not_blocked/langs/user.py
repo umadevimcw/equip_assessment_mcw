@@ -1,2 +1,2 @@
-def average_price(array_size, input_array):
+def frequent_integer_not_blocked(N, array_elements, M, blocked_elements):
     #Write your code here
