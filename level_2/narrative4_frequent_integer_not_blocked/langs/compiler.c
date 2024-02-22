@@ -14,7 +14,7 @@ int main()
     for (int i = 0; i < m; i++) 
         scanf("%d", &b_arr[i]);
     
-    printf( "%d\n", frequent_integer_not_blocked_elements(n,arr, m, b_arr));
+    printf( "%d\n", frequent_integer_not_blocked(n,arr, m, b_arr));
     
     return 0;
 }

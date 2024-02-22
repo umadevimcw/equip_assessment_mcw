@@ -19,7 +19,7 @@ class Main
         }
 
         Test test = new Test();
-        System.out.println(test.frequentIntegerNotBlocked(n, arr, m, bArr));
+        System.out.println(test.frequent_integer_not_blocked(n, arr, m, bArr));
 
         scanner.close();
     }

@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 class Test
 {
-    public static int frequentIntegerNotBlocked(int N, int[] arrayElements, int M, int[] bookedElements)
+    public static int frequent_integer_not_blocked(int N, int[] array_elements, int M, int[] blocked_elements)
     {
         //Write your code here
     }
