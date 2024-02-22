@@ -47,7 +47,7 @@ public class compiler
         {
             for (int j = 0; j < n; j++)
             {
-                System.out.print(" " + input[i][j]);
+                System.out.print(input[i][j] + " ");
             }
             System.out.println();
         }
