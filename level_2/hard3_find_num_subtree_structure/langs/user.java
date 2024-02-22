@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main 
+class Test 
 {
     private static void find_num_subtree_structure(int N, int R, Map<Integer, List<Integer>> inputTree, int[] outputSubtreeCount) 
     {
