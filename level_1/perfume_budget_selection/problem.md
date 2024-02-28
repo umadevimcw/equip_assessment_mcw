@@ -21,20 +21,5 @@ Given the budget from customer, find the perfumees that are close to it in price
     - 720
     #### Output:
     - 680 760
-2.
-    #### Input:
-    - 7
-    - 500
-    - 320 260 440 760 680 810
-    - 320
-    #### Output:
-    - 320 260 440
-3.
-    #### Input:
-    - 7
-    - 500
-    - 320 260 440 760 680 810
-    - 810
-    #### Output:
-    - 810 760
+
 
