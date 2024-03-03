@@ -1,5 +1,4 @@
-
-class Main
+class compiler
 {
     public static void main(String[] args)
     {
@@ -40,7 +39,7 @@ class Main
             return;
         }
         Test test = new Test();
-        test.sortMatrix(input, m, n);
+        user.sortMatrix(input, m, n);
         // Print the sorted matrix
         for (int i = 0; i < m; i++)
         {

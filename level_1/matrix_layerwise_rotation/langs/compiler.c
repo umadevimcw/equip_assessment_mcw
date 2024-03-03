@@ -50,7 +50,6 @@ int main()
     for (int i = 0; i < n; i++)
         output[i] = (int *)calloc(m, sizeof(int));
 
-    // logic
     layerwise_rotate(input, output, m, n);
 
     // Print the sorted matrix
@@ -63,7 +62,7 @@ int main()
         printf("\n");
     }
 
-    // free memory
+    // Free memory
     for (int i = 0; i < m; i++)
         free(input[i]);
     for (int i = 0; i < n; i++)

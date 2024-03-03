@@ -2,6 +2,10 @@
 
 ### Statement
 Given a matrix of size m x n, sort it without using extra space for another matrix
+Input format:
+m
+n
+Input matrix
 
 ### Test Cases
 1.  |       Input	     |  Expected Output   |

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Test
+class user
 {
     public static void sortMatrix(int input[][], int m, int n)
     {
