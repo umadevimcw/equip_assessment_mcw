@@ -3,6 +3,10 @@
 ### Statement
 Matrix Rotation - clockwise and anticlockwise in alternate layers. Get matrix size m x n and
 elements as input.
+Input format:
+m
+n
+Input matrix
 
 ### Test Cases
 1.  |       Input	     |  Expected Output   |
