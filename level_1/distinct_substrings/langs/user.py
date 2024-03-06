@@ -1,3 +1,3 @@
-def split_alternate_nodes(head):
+def countDistinctSubstring(s):
     # Code here
     return
