@@ -8,7 +8,7 @@ class Main
         for (int i = 0; i < n; i++)
         arr[i] = scanner.nextInt();
         
-        Test test = new Main();
+        Test test = new Test();
         test.find_unique_array(arr, n);
         String str = test.result;  
         System.out.println(str);
