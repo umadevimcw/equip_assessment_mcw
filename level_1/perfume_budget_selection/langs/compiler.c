@@ -1,9 +1,3 @@
-typedef struct Node {
-    int key;
-    struct Node* left;
-    struct Node* right;
-} Node;
-
 Node* create_node(int value) {
     Node* newNode = (Node*)malloc(sizeof(Node));
     newNode->key = value;

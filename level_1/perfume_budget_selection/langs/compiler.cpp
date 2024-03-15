@@ -1,11 +1,3 @@
-class Node {
-public:
-    int key;
-    Node* left;
-    Node* right;
-
-    Node(int value) : key(value), left(nullptr), right(nullptr) {}
-};
 
 Node* insert(Node* root, int value) {
     if (root == nullptr) {

@@ -3,7 +3,7 @@ int main() {
     scanf("%d",&N);
     char input[N];
     scanf("%s", input);
-    int result = countDistinctSubstrings(input);
-    printf("%d\n");
+    int result = countDistinctSubsequence(input, N);
+    printf("%d\n", result);
     return 0;
 }

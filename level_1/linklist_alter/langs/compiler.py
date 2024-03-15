@@ -23,9 +23,10 @@ def print_list(head):
 def main():
     N = int(input())
     head = None
-
-    for _ in range(N):
-        value = int(input())
+    input_ = input()
+    input_ = input_.split(" ")
+    for i in range(N):
+        value = int(input_[i])
         head = insert(head, value)
 
     result = split_alternate_nodes(head)

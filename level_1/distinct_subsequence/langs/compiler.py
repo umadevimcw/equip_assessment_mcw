@@ -1,7 +1,7 @@
 def main():
     N = int(input())
     s = input()
-    result = countDistinctSubstring(s)
+    result = countDistinctSubsequence(s, N)
     print(result)
 
 if __name__ == "__main__":

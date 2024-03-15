@@ -1,7 +1,7 @@
 # Problem
 
 ### Statement
-Given a string of length N, find the count of distinct substrings of it.
+Given a string of length N, find the count of distinct subsequence of the given string.
 
 Input format:
 

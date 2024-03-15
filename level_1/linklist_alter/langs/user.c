@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+struct Node {
+    int data;
+    struct Node* next;
+};
 // Function to split the linked list into two with alternate nodes
 struct Node** splitAlternateNodes(struct Node* head) {
     

@@ -5,7 +5,7 @@ int main() {
     string input;
     cin >> input;
 
-    int result = countDistinctSubstrings(input);
+    int result = countDistinctSubsequence(input, N);
 
     cout << result << endl;
 

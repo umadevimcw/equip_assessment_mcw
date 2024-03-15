@@ -1,9 +1,3 @@
-struct Node {
-    int data;
-    Node* next;
-    Node(int val) : data(val), next(nullptr) {}
-};
-
 Node* insert(Node* head, int value) {
     if (head == nullptr) {
         return new Node(value);
