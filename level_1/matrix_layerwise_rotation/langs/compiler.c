@@ -46,7 +46,7 @@ int main()
         return 1;
     }
 
-    int **output = (int **)calloc(n, sizeof(int));
+    int **output = (int **)calloc(n, sizeof(int*));
     for (int i = 0; i < n; i++)
         output[i] = (int *)calloc(m, sizeof(int));
 

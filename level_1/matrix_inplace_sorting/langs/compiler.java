@@ -38,7 +38,6 @@ class compiler
             System.out.println("You have entered an invalid input!");
             return;
         }
-        Test test = new Test();
         user.sortMatrix(input, m, n);
         // Print the sorted matrix
         for (int i = 0; i < m; i++)
